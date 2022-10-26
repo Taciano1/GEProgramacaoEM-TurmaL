@@ -4,12 +4,16 @@ body {
 
 header {text-align: center;}
 
-#imagemprincipal {
+#imagemLogotms {
 	width: 30%;
 	height: 250px;
 	border: 10px solid black;
 	padding: 10px;
 	margin: 10px;
+}
+
+nav li {
+	list-style: none;
 }
 
 main {
@@ -55,3 +59,5 @@ b {
 i { color: black;
     font-size: 25px;
  }
+
+
